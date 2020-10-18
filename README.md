@@ -1,2 +1,2 @@
-# my-react-app-v1
+# ES6-arrow-functions
 Created with CodeSandbox
